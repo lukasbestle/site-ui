@@ -1,0 +1,10 @@
+.text dl {
+  margin-bottom: 1.5em;
+}
+.text dt {
+  font-weight: 400;
+  color: red;
+}
+.text dd {
+  font-weight: 400;
+}

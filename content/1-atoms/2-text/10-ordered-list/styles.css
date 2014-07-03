@@ -1,0 +1,8 @@
+.text ol {
+  margin-bottom: 1.5em;
+  margin-left: 1.25em;
+}
+.text ol ul,
+.text ol ol {
+  margin-bottom: 0;
+}

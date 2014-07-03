@@ -1,0 +1,17 @@
+.marginalia {
+  color: #777;
+}
+.marginalia a {
+  color: #777;
+  font-weight: 300;
+}
+.marginalia strong,
+.marginalia b,
+.marginalia h1,
+.marginalia h2,
+.marginalia h3,
+.marginalia h4,
+.marginalia h5,
+.marginalia h6 {
+  color: #000;
+}

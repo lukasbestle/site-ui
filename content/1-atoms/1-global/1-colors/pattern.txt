@@ -1,0 +1,15 @@
+Title: Colors
+----
+Colors:
+
+- label: White
+  code: ffffff
+
+- label: Border
+  code: dddddd
+
+- label: Text
+  code:  000000
+
+- label: Red
+  code:  ff0000

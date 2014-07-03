@@ -1,0 +1,57 @@
+h1 a,
+h2 a,
+h3 a,
+h4 a,
+h5 a,
+h6 a {
+  color: inherit;
+}
+.alpha,
+.text h1 {
+  font-size: 36px;
+  font-size: 2.25rem;
+  font-weight: 400;
+  line-height: 1.25em;
+  margin: 0 0 .5em 0;
+}
+.beta,
+.text h2 {
+  font-size: 36px;
+  font-size: 2.25rem;
+  font-weight: 300;
+  line-height: 1.25em;
+  margin: 0 0 1em 0;
+  color: red;
+}
+.gamma,
+.text h3 {
+  font-size: 24px;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.5em;
+  margin: 0 0 1.5em 0;
+}
+.delta,
+.text h4 {
+  font-size: 18px;
+  font-size: 1.125rem;
+  font-weight: 600;
+  line-height: 1.5em;
+  margin: 0 0 1.5em 0;
+  color: red;
+}
+.epsilon,
+.text h5,
+.zeta,
+.text h6 {
+  font-size: 18px;
+  font-size: 1.125rem;
+  font-weight: 600;
+  line-height: 1.5em;
+  margin: 0 0 1.5em 0;
+}
+.zeta,
+.text h6 {
+  font-weight: 400;
+  color: red;
+}

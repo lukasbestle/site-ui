@@ -1,0 +1,9 @@
+Title: Home
+----
+Headline: Kirby Site Patterns
+----
+Repository: https://github.com/getkirby/site-ui
+----
+Text:
+
+This is a collection of all interface elements and modules including HTML and CSS for the upcoming Kirby website and forum.
