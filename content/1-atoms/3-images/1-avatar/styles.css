@@ -1,0 +1,13 @@
+.avatar {
+  display: inline-block;
+  margin-right: 1em;
+  border-radius: 50%;
+  width: 3.2em;
+  height: 3.2em;
+  padding: 2px;
+  border: 2px solid #ddd;
+  transition: border-color .3s;
+}
+ .avatar:hover {
+  border-color: #222;
+}
