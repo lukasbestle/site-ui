@@ -2,6 +2,9 @@
   margin-bottom: 1.5em;
 }
 .text dt {
+  margin-top: 1.25em;
+  margin-bottom: .25em;
+  font-size: 1.3rem;
   font-weight: 400;
   color: red;
 }

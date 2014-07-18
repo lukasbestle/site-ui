@@ -1,5 +1,5 @@
 <nav role="navigation">
-  <ul class="nav">
+  <ul class="nav nav-right">
     <li><a href="#">Home</a></li>
     <li><a href="#">About</a></li>
     <li><a href="#">Blog</a></li>

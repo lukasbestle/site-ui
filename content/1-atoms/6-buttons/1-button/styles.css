@@ -1,0 +1,23 @@
+[class*='btn'] {
+  display: inline-block;
+  padding: .5em 1.5em;
+  font-size: 1em;
+  font-weight: 600;
+  border-width: 2px;
+  border-style: solid;
+  border-radius: 5em;
+  border-color: #222;
+  background-color: transparent;
+  color: #222;
+  cursor: pointer;
+  transition: background-color .3s, color .3s, border-color .3s;
+}
+[class*='btn']:hover,
+[class*='btn']:focus {
+  background-color: #222;
+  color: #fff;
+}
+[class*='btn']::-moz-focus-inner {
+  border: 0;
+  padding: 0;
+}

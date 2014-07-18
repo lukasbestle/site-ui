@@ -1,0 +1,9 @@
+[class*='btn-red'] {
+  border-color: red;
+  color: red;
+}
+[class*='btn-red']:hover,
+[class*='btn-red']:focus {
+  background-color: red;
+  color: #fff;
+}

@@ -1,6 +1,26 @@
-.nav > li {
-  list-style: none;
-}
-.nav > li > a {
+.nav li a {
   display: block;
+  padding: 1em 0;
+  border-top: 1px solid #ddd;
+}
+.nav > li > a:hover,
+.nav > li.is-active > a {
+  color: red;
+}
+@media screen and (min-width: 47em) {
+  .nav {
+    float: left;
+  }
+  .nav li {
+    float: left;
+    position: relative;
+    display: inline-block;
+    margin-right: 2em;
+  }
+  .nav li:last-child {
+    margin-right: 0;
+  }
+  .nav li a {
+    border-top: none;
+  }
 }

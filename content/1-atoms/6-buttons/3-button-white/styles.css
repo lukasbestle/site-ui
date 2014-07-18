@@ -1,0 +1,9 @@
+[class*='btn-white'] {
+  border-color: white;
+  color: white;
+}
+[class*='btn-white']:hover,
+[class*='btn-white']:focus {
+  background-color: white;
+  color: #222;
+}
